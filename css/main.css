@@ -1,21 +1,22 @@
-html{
-background-color: #c9b5ab;
-line-height: 1.4;
+html {
+  background-color: #c9b5ab;
+  line-height: 1.4;
 }
 
-h1, h2{
-   color: #3f1622;
-   font-family: "PT Sans", sans-serif;
-   font-size: 1.5rem;
-   font-weight: bold;
-   line-height: 1.9;
+h1, h2 {
+  color: #3f1622;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 1.9;
 }
-nav li{
+
+nav li {
   list-style-type: none;
   font-weight: bold;
 }
 
-a, nav li{
+a, nav li {
   color: #af2440;
   font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
@@ -23,7 +24,7 @@ a, nav li{
 }
 
 a:hover {
-  color:#222;
+  color: #222;
   text-decoration: underline;
 }
 
@@ -39,7 +40,6 @@ img {
 figcaption {
   font-style: italic;
   text-align: center;
-
 }
 
 blockquote {
@@ -58,7 +58,7 @@ cite {
   font-size: 0.8rem;
 }
 
-main > ol li{
+main > ol li {
   list-style-type: lower-greek;
 }
 
