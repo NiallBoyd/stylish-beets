@@ -48,14 +48,13 @@ blockquote {
   font-style: italic;
 }
 
-
 .p-1 {
   font-size: 1.125rem;
   font-weight: bold;
 }
 
 cite {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 main > ol li {
